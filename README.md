@@ -1,5 +1,5 @@
-### Hi, I'm Eliazord Kalvin
+### Hi, I'm Kalvin
 
 <ul>
-  <li> I'm learning C++ and assembly by practicing game hacking ✨ </li>
+  <li> I'm learning C++ and assembly by practicing game hacking. </li>
 </ul>
