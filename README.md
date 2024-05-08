@@ -1,7 +1,5 @@
 ## Hi I'm Kalvin
 
 <ul>
-  <li> I'm learning C++ and assembly by practicing game hacking. </li>
+  <li> I learn low-level programming by practicing C++ and assembly with game hacking. </li>
 </ul>
-
-
