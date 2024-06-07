@@ -11,5 +11,3 @@
 
 ## External memory hacking, TF2
 ![tf2_aimbot](https://github.com/kalvin-eliazord/kalvin-eliazord/assets/61147281/0a8124d8-d136-47d8-94b9-136f2a8f6eab)
-
-#
