@@ -3,7 +3,7 @@
 ### I'm currently learning low-level programming by practicing ethical game hacking.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalvin-eliazord&size_weight=0.5&count_weight=0.5&theme=radical)
-![Kalvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalvin-eliazord&show_icons=true&theme=radical) 
+![Corty's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalvin-eliazord&show_icons=true&theme=radical) 
 
 # My projects :
 ## Internal memory hacking, Counter-Strike 2
