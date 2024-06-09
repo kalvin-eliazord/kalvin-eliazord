@@ -1,4 +1,4 @@
-# Hi I'm Kalvin,
+# Hi I'm Corty,
 
 ### I'm currently learning low-level programming by practicing ethical game hacking.
 
