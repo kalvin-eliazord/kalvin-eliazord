@@ -1,5 +1,4 @@
 # Hi I'm Corty,
-
 ### Currently specializing in C++ and Assembly. 
 ### Passionate about Windows internals, reverse engineering, game development and ethical hacking.
 
