@@ -1,5 +1,6 @@
 # Hi I'm Corty,
-### Currently specializing in C++ and Assembly. 
+### Currently specializing in Web Development. 
+### Experienced in C++ and Assembly. 
 ### Passionate about Windows internals, reverse engineering, game development and ethical hacking.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalvin-eliazord&size_weight=0.5&count_weight=0.5&theme=radical)
